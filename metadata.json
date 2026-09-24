@@ -1,0 +1,6 @@
+{
+  "name": "Meowdoku",
+  "description": "A cozy cat puzzle game blending Queens logic with pastel aesthetics. Place cats in colored regions without sharing rows, columns, or adjacent squares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
